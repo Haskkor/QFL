@@ -1,0 +1,104 @@
+Règles en vrac : 
+
+- Possibilité d'acheter et de vendre des joueurs.
+- Possibilité d'acheter et de vendre des balais.
+- Les joueurs peuvent être blessés et même mourir.
+- Différentes divisions en fonction du niveau de l'équipe.
+- Championnats limités dans le temps (courte période). Les meilleurs de chaque
+niveau s'affrontent et un grand gagnant modial est désigné (tous les mois ou 2 
+mois).
+- Arbitre tiré dans une liste en fonction du niveau de l'équipe. Un 1 donne
+un arbitre négligent, un 20 donne un arbitre ne laissant rien passer.
+- Les matchs grandioses font gagner des supporters aux équipes victorieuses
+et en perdre aux adversaires.
+- Les équipes gagnent de l'argent en fonction de leurs performances et de leurs 
+sponsors.
+- Les arbitres peuvent être corrompus :
+	- Petit coup de pouce : plus de facilité à passer des fautes
+	- Gros coup de pouce : les fautes de l'équipe passeront le plus souvent
+	- Tricherie éhontée : l'arbitre trouvera en plus de fautes inexistantes
+			      à l'équipe adverse
+- Caractéristiques des arbitres : Arbitrage et Intégrité
+- Niveau de l'équipe : somme des niveaux des joueurs divisée par le nombre de 
+joueurs. Résultat arrondi à l'entier le plus proche.
+- Chaque action réussie entraine un gain d'XP. A l'atteinte d'un seuil le joueur
+passe un niveau et gagne des points de caractéristiques à distribuer.
+- Possibilité de payer pour entrainer un joueur afin qu'il gagne de l'XP hors
+match.
+- Possibilité d'acheter des supporters et des hooligans.
+- Chaque équipe possède un capitaine. Un bon discours de sa part remontera le
+moral de l'équipe alors qu'une blessure ou sa mort le fera baisser.
+- Eléments extérieurs à prendre en compte :
+	- Pluie (intensité)
+	- Neige (intensité)
+	- Vent (direction , force)
+	- Obstacles (joueurs , divers)
+	- Gravité
+- Quelle que soit l'action tentée, un 1 est toujours un échec, un 20 est  
+toujours une réussite.
+- Les joueurs connaissent quelques sorts de base, les sorts se débloquent avec
+niveaux mais il faut payer un apprentissage pour les niveaux.
+- Dons : avantages conséquents donc peu de dons connus et l'on ne peut en choisir
+de nouveaux que très rarement.
+- Talents : avantages plus communs.
+- Règles officielles :
+  Elles ont été établies en 1750 par le Département des jeux et sports magiques :
+    *Si un joueur dépasse les limites du terrain, le souaffle revient à l'équipe 
+    adverse. 
+    Il n'y a pas de limite d'altitude.
+    *Seule la période de temps mort permet aux joueurs de poser le pied à terre. 
+    Cette période, demandée par le capitaine d'une équipe à l'arbitre, peut durer 
+    jusqu'à deux heures si le match a déjà duré douze heures. Passé ce délai, 
+    l'équipe qui ne revient pas sur le terrain est disqualifiée.
+    *L'arbitre peut déclarer un penalty contre une équipe. 
+    Seul le gardien de cette équipe et un poursuiveur de l'équipe adverse sont 
+    alors autorisés à jouer sur ce penaltya.
+    *Le souafle peut être pris des mains d'un autre joueur. En aucune autre 
+    circonstance les joueurs ne devront avoir de contact physique.
+    *En cas de blessure, aucun remplacement de joueur ne sera effectué.
+    *Les baguettes magiques, autorisées sur le terrain depuis 1692 par la 
+    Confédération internationale des mages et sorciers, ne doivent pas être 
+    utilisées contre l'équipe adverse, l'arbitre, les balles ou encore la foule.
+    *Le match de Quidditch se termine lorsque le Vif d'or a été attrapé ou par 
+    consentement mutuel des deux capitaines d'équipe.
+- Dimensions terrain :
+Le terrain de Quidditch réglementaire est un ovale de 124 mètres de longueur et 
+50 mètres de largeur avec un cercle tracé en son centre.
+Les buts sont constitués de cercles d'or placés au sommet de grands poteaux. 
+Il y en a trois de chaque côté du terrain, chacun d'une hauteur différente. 
+Une zone de but empêche les poursuiveurs d'approcher trop près des anneaux et 
+ainsi laisser une chance au gardien de pouvoir arrêter le Souafle ; seul le 
+poursuiveur en possession du Souafle peut entrer dans la zone de but.
+- 100 points de carac à repartir au départ. Pour la Force et la Dextérité : 
+le double du nombre de points attribués à la carac principale est à repartir 
+entre les 2 bras. Exemple : 10 en Force = 10 bras droit et 10 bras gauche ou
+5 bras droit et 15 bras gauche etc...
+
+
+
+
+Si un joueur dépasse les limites du terrain, le souaffle revient à l'équipe adverse. Il n'y a pas de limite d'altitude.
+Seule la période de temps mort permet aux joueurs de poser le pied à terre. Cette période, demandée par le capitaine d'une équipe à l'arbitre, 
+peut durer jusqu'à deux heures si le match a déjà duré douze heures. Passé ce délai, l'équipe qui ne revient pas sur le terrain est disqualifiée.
+L'arbitre peut déclarer un penalty contre une équipe. Seul le gardien de cette équipe et un poursuiveur de l'équipe adverse sont alors autorisés à jouer 
+sur ce penalty.
+Le souafle peut être pris des mains d'un autre joueur. En aucune autre circonstance les joueurs ne devront avoir de contact physique.
+En cas de blessure, aucun remplacement de joueur ne sera effectué.
+Les baguettes magiques, autorisées sur le terrain depuis 1692 par la Confédération internationale des mages et sorciers, ne doivent pas être utilisées 
+contre l'équipe adverse, l'arbitre, les balles ou encore la foule.
+Le match de Quidditch se termine lorsque le Vif d'or a été attrapé ou par consentement mutuel des deux capitaines d'équipea 2.
+
+
+
+
+Pas plus d'un poursuiveur à la fois dans la zone d'en-but.
+
+longueur : 153 cases
+largeur : 55 cases
+cercle central : 1 case
+fond du terrain aux poteaux : 10 cases
+fond du terrain à début en-but : 30 cases
+bord du terrain au but : 17 cases
+entre les buts : 10 cases
+poteaux : 9 cases / 15 cases / 12 cases
+poteaux à poteaux : 133 cases
